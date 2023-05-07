@@ -1,4 +1,4 @@
-import { HomeIcon, Library, Search } from 'lucide-React';
+import { HomeIcon, Library, Search } from 'lucide-react'
 
 export function Sidebar(){
     return(<aside className="w-72 bg-zinc-950 p-6">

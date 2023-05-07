@@ -1,4 +1,4 @@
-import{Home as ChevronLeft, ChevronRight, Play} from 'lucide-React'
+import{Home as ChevronLeft, ChevronRight, Play} from 'lucide-react'
 import Image from 'next/image'
 import { Sidebar } from './components/Sidebar'
 import { Footer } from './components/Footer'
