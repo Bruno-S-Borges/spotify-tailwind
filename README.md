@@ -22,7 +22,7 @@ Aqui estão as tecnologias utilizadas neste projeto.
 ![18](https://user-images.githubusercontent.com/99930668/236655783-dae099b2-bd76-4028-a583-71958ca9ff5d.JPG)
 
 ## Links
-  - Link Projeto: 
+  - Link Projeto: https://spotify-tailwind-eryx.vercel.app
   - Repositorio: https://github.com/Bruno-S-Borges/spotify-tailwind
 
   ## Authors
