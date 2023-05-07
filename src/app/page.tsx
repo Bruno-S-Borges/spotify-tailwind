@@ -70,42 +70,42 @@ export default function Home() {
 
           <div className='grid grid-cols-8 gap-4 mt-4'>
             <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
-              <Image src="/Daily1.jpg" className='w-full' width={120} height={120} alt="Capa do Album do Post Malone"/>
+              <Image src="/Daily1.JPG" className='w-full' width={120} height={120} alt="Capa do Album do Post Malone"/>
               <strong className='font-semibold'>Daily Mix 1</strong>
               <span className='text-sm text-zinc-500'>Kayblack, Tz da Coronel, Israel &...</span>
             </a>
             <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
-              <Image src="/Daily2.jpg" className='w-full' width={120} height={120} alt="Capa do Album do Post Malone"/>
+              <Image src="/Daily2.JPG" className='w-full' width={120} height={120} alt="Capa do Album do Post Malone"/>
               <strong className='font-semibold'>Daily Mix 2</strong>
               <span className='text-sm text-zinc-500'>Costa Gold, PrimeiraMente, Aka...</span>
             </a>
             <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
-              <Image src="/Daily3.jpg" className='w-full' width={120} height={120} alt="Capa do Album do Post Malone"/>
+              <Image src="/Daily3.JPG" className='w-full' width={120} height={120} alt="Capa do Album do Post Malone"/>
               <strong className='font-semibold'>Daily Mix 3</strong>
               <span className='text-sm text-zinc-500'>Imagine Dragons, Yeah Yeah Yeahs,...</span>
             </a>
             <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
-              <Image src="/Daily4.jpg" className='w-full' width={120} height={120} alt="Capa do Album do Post Malone"/>
+              <Image src="/Daily4.JPG" className='w-full' width={120} height={120} alt="Capa do Album do Post Malone"/>
               <strong className='font-semibold'>Daily Mix 4</strong>
               <span className='text-sm text-zinc-500'>Fugees, 50 Cent, Busta Rhymes e mais</span>
             </a>
             <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
-              <Image src="/Daily5.jpg" className='w-full' width={120} height={120} alt="Capa do Album do Post Malone"/>
+              <Image src="/Daily5.JPG" className='w-full' width={120} height={120} alt="Capa do Album do Post Malone"/>
               <strong className='font-semibold'>Daily Mix 5</strong>
               <span className='text-sm text-zinc-500'>Filipe Ret, Selminho DJ, MC MENOR H...</span>
             </a>
             <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
-              <Image src="/Daily6.jpg" className='w-full' width={120} height={120} alt="Capa do Album do Post Malone"/>
+              <Image src="/Daily6.JPG" className='w-full' width={120} height={120} alt="Capa do Album do Post Malone"/>
               <strong className='font-semibold'>Descobertas da Semana</strong>
               <span className='text-sm text-zinc-500'>Seu mixtape semanal cheia de novidades</span>
             </a>
             <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
-              <Image src="/Daily8.jpg" className='w-full' width={120} height={120} alt="Capa do Album do Post Malone"/>
+              <Image src="/Daily8.JPG" className='w-full' width={120} height={120} alt="Capa do Album do Post Malone"/>
               <strong className='font-semibold'>Radar de Novidades</strong>
               <span className='text-sm text-zinc-500'>Confira os lançamentos dos artistas que você...</span>
             </a>
             <a href='#' className='bg-white/5 p-3 rounded-md flex flex-col gap-2 hover:bg-white/10'>
-              <Image src="/Mix.jpg" className='w-full' width={120} height={120} alt="Capa do Album do Post Malone"/>
+              <Image src="/Mix.JPG" className='w-full' width={120} height={120} alt="Capa do Album do Post Malone"/>
               <strong className='font-semibold'>Mix de Mc IG</strong>
               <span className='text-sm text-zinc-500'>Veigh, WIU e MD Chefe</span>
             </a>
